@@ -8,6 +8,13 @@ This work is sponsored by Natural Science Foundation of China(62276242), CAAI-Hu
 We use Mindspore to develop our algorithm.
 
 
+## The generated partial image candidate set
+
+![image](https://user-images.githubusercontent.com/49955700/200109515-b8193a0c-d1b6-494f-9a57-114d6f594ffa.png)
+
+## Experiment results
+![image](https://user-images.githubusercontent.com/49955700/200109532-ccae6371-8a6b-450f-9c07-29868043b9ed.png)
+
 
 ## How to run
 
