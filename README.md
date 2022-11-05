@@ -5,8 +5,7 @@ paper link: http://alisec-competition.oss-cn-shanghai.aliyuncs.com/competition_p
 
 This work is sponsored by Natural Science Foundation of China(62276242), CAAI-Huawei MindSpore Open Fund(CAAIXSJLJJ-2021-016B), Anhui Province Key Research and Development Program(202104a05020007), and USTC Research Funds of the Double First-Class Initiative(YD2350002001)”。
 
-Later, Mindspore will be provided for implementation.
-
+We use Mindspore to develop our algorithm.
 
 
 
